@@ -1,4 +1,3 @@
-pip install spacy=1.8.2
 from flask import Flask
 
 import spacy
