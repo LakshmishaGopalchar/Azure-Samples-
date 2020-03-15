@@ -1,5 +1,5 @@
 
-!pip install spacy
+
 from flask import Flask
 
 import spacy
